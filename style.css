@@ -1,0 +1,28 @@
+.w30{
+    
+    display: flex;
+    justify-content: center;
+
+}
+.w30 img{
+    height:4rem !important;
+}
+.w-35{
+    width: 40% !important;
+}
+.pointer{
+    cursor: pointer !important;
+}
+.groupbydate{
+    position: relative;
+}
+.groupbydate::after{
+    position: absolute;
+    content: "";
+    width:10rem;
+    height:3px;
+    border-radius: 50px;
+    background-color: orange;
+    left: 5px;
+    top:1.5rem;
+}

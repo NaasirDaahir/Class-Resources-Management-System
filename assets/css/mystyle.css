@@ -1,0 +1,10 @@
+.sweet-alert .lead {
+    font-size: 20px !important;
+}
+.sweet-alert{
+    border: 2px solid rgba(245, 245, 246, 0.6) !important;
+}
+
+.dropzone{
+    border:1px solid lightgray !important;
+}
